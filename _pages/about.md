@@ -36,9 +36,9 @@ I am a member of the [Lab for Data Science (LDS)](http://data-science.ustc.edu.c
 
 Wenqiang Lei, **Gangyi Zhang**, Xiangnan He, Yisong Miao, Xiang Wang, Liang Chen, Tat-Seng Chua. 
 
-ACM SIGKDD International Conference on Knowledge Discovery &amp Data Mining, 2020.
+ACM SIGKDD International Conference on Knowledge Discovery %26 Data Mining, 2020.
   
-[\[Project\]](https://cpr-conv-rec.github.io/)   \| [\[Code &amp Data\]](https://github.com/farrecall/SCPR)  <strong><span class='show_paper_citations' data='ahI1Z7cAAAAJ:u5HHmVD_uO8C'>Citations: </span></strong>\ 
+[\[Project\]](https://cpr-conv-rec.github.io/)   \| [\[Code %26 Data\]](https://github.com/farrecall/SCPR)  <strong><span class='show_paper_citations' data='ahI1Z7cAAAAJ:u5HHmVD_uO8C'>Citations: </span></strong>\ 
 
 </div>
 </div>
