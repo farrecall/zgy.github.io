@@ -21,7 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Gangyi Zhang (张刚毅)"
+  name             : "Gangyi Zhang"
+  Chinese-name     : "张刚毅"
   avatar           : "images/android-chrome-512x512.png"
   bio              : # "Lorem ipsum College"
   location         : "Hefei, China"
