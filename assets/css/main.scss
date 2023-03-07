@@ -97,24 +97,123 @@ h1:before, .anchor:before {
     margin-top: -$scroll_offset;
 }
 
-.badge {
-    padding-left: 1rem;
-    padding-right: 1rem;
-    position: absolute;
-    margin-top: .5em;
-    margin-left: -.5em;
-    color: white;
-    background-color: #00369f;
-    font-size: .8em;
+// .badge {
+//     padding-left: 1rem;
+//     padding-right: 1rem;
+//     position: absolute;
+//     margin-top: .5em;
+//     margin-left: -.5em;
+//     color: white;
+//     background-color: #00369f;
+//     font-size: .8em;
+// }
+// .publish-badge {
+//   display: inline-block;
+//   float: left;
+//   padding: 0.25em 0.5em;
+//   margin-right: 0.5em;
+//   border-radius: 0.25em;
+//   font-size: 0.9em;
+//   font-weight: bold;
+//   color: white;
+//   background-color: #6c757d;
+// }
+.paper {
+  margin: 2em;
+  padding: 2em;
+  border: 1px solid #ccc;
+  border-radius: 0.5em;
 }
-.publish-badge {
+
+.title {
+  font-size: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+.authors {
+  font-size: 1em;
+  color: #6c757d;
+  margin-bottom: 0.5em;
+}
+
+.author {
   display: inline-block;
-  float: left;
+  margin-right: 0.5em;
+}
+
+.core {
+  font-weight: bold;
+}
+
+.conference {
+  font-style: italic;
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.5em;
+}
+
+/* Badge styles */
+.badge {
+  display: inline-block;
+  vertical-align: middle;
   padding: 0.25em 0.5em;
   margin-right: 0.5em;
   border-radius: 0.25em;
   font-size: 0.9em;
   font-weight: bold;
   color: white;
+}
+
+/* Conference badge styles */
+.conference-badge {
   background-color: #6c757d;
 }
+
+/* Track badge styles */
+.track-badge {
+  background-color: #28a745;
+}
+
+/* Author styles */
+.author {
+  color: #007bff;
+  font-size: 0.8em;
+}
+
+/* Core author styles */
+.core-author {
+  background-color: #ffc107;
+}
+
+/* Paper title styles */
+.paper-title {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+// /* Markdown styles */
+// body {
+//   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+//   font-size: 16px;
+//   line-height: 1.5;
+//   padding: 1em;
+// }
+
+// h1 {
+//   font-size: 2.5em;
+//   margin-bottom: 0.5em;
+// }
+
+// h2 {
+//   font-size: 2em;
+//   margin-bottom: 0.5em;
+// }
+
+// h3 {
+//   font-size: 1.5em;
+//   margin-bottom: 0.5em;
+// }
+
+// p {
+//   margin-bottom: 1em;
+// }
