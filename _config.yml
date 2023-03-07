@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Gangyi Zhang - Conversational Recommendation System Researcher"
-description              : "Welcome to the homepage of Gangyi Zhang, a first-year Ph.D. student at the School of Big Data at the University of Science and Technology of China (USTC). "
+title                    : "Gangyi Zhang - Homepage"
+description              : "Ph.D. student in LDS lab"
 repository               : "farrecall/gangyi.github.io"
 google_scholar_stats_use_cdn : true
 
