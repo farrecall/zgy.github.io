@@ -32,20 +32,20 @@ I am a member of the [Lab for Data Science (LDS)](http://data-science.ustc.edu.c
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/2020_kdd_cpr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Interactive Path Reasoning on Graph for Conversational Recommendation](https://arxiv.org/pdf/2007.00194.pdf)
+<div class="publish-badge">KDD 202O</div> [Interactive Path Reasoning on Graph for Conversational Recommendation](https://arxiv.org/pdf/2007.00194.pdf)
 
 Wenqiang Lei, **Gangyi Zhang**, Xiangnan He, Yisong Miao, Xiang Wang, Liang Chen, Tat-Seng Chua. 
 
-ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, 2020. <div class="publish-badge">KDD 202O</div>
+ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, 2020. 
   
 [\[Project\]](https://cpr-conv-rec.github.io/)   \| [\[Code & Data\]](https://github.com/farrecall/SCPR)  <strong><span class='show_paper_citations' data='ahI1Z7cAAAAJ:u5HHmVD_uO8C'></span></strong>\ 
 
 </div>
 </div>
 
-- [State graph reasoning for multimodal conversational recommendation](https://liziliao.github.io/papers/TMM_State.pdf),Yuxia Wu, Lizi Liao, **Gangyi Zhang**, Wenqiang Lei, Guoshuai Zhao, Xueming Qian, Tat-Seng Chua. IEEE Transactions on Multimedia, 2022.  <div class="publish-badge">TMM 2022</div>
+-  <div class="publish-badge">TMM 2022</div> [State graph reasoning for multimodal conversational recommendation](https://liziliao.github.io/papers/TMM_State.pdf),Yuxia Wu, Lizi Liao, **Gangyi Zhang**, Wenqiang Lei, Guoshuai Zhao, Xueming Qian, Tat-Seng Chua. IEEE Transactions on Multimedia, 2022. 
 
-- Toward noise-resistant graph embedding with subspace clustering information, Zhongjing Yu, **Gangyi Zhang**, Jingyu Chen, Haoran Chen, Duo Zhang, Qinli Yang, Junming Shao. IEEE Transactions on Cybernetics, 2021. <div class="publish-badge">TCYB 2021</div> 
+- <div class="publish-badge">TCYB 2021</div> Toward noise-resistant graph embedding with subspace clustering information, Zhongjing Yu, **Gangyi Zhang**, Jingyu Chen, Haoran Chen, Duo Zhang, Qinli Yang, Junming Shao. IEEE Transactions on Cybernetics, 2021. 
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
