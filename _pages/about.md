@@ -17,43 +17,47 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a first-year PhD student at the School of Big Data in the University of Science and Technology of China (USTC).
+I'm currently a first-year PhD student at the School of Data Science in the University of Science and Technology of China (USTC).
 
-I am a member of the -[Lab for Data Science (LDS)](http://data-science.ustc.edu.cn/main.htm), where my advisor is -[Xiangnan He](http://staff.ustc.edu.cn/~hexn/). My research focuses on conversational recommendation systems.
+I am a member of the [Lab for Data Science (LDS)](http://data-science.ustc.edu.cn/main.htm), where my advisor is [Xiangnan He](http://staff.ustc.edu.cn/~hexn/). My research focuses on conversational recommendation systems.
 
 
-
+<!-- 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 202O</div><img src='images/2020_kdd_cpr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Interactive Path Reasoning on Graph for Conversational Recommendation](https://arxiv.org/pdf/2007.00194.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Wenqiang Lei, **Gangyi Zhang**, Xiangnan He, Yisong Miao, Xiang Wang, Liang Chen, Tat-Seng Chua
+  
+ \| [\[Project\]](https://cpr-conv-rec.github.io/)   \| [\[Code&Data\]](https://github.com/farrecall/SCPR)  | [\[Citations:  <strong><span class='show_paper_citations' data='ahI1Z7cAAAAJ:u5HHmVD_uO8C'></span></strong>\]] 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class="badge">TMM 2022</div>
+- [State graph reasoning for multimodal conversational recommendation](https://liziliao.github.io/papers/TMM_State.pdf),Yuxia Wu, Lizi Liao, **Gangyi Zhang**, Wenqiang Lei, Guoshuai Zhao, Xueming Qian, Tat-Seng Chua
 
-# 🎖 Honors and Awards
+<div class="badge">TCYB 2021</div>
+- Toward noise-resistant graph embedding with subspace clustering information,Zhongjing Yu, **Gangyi Zhang**, Jingyu Chen, Haoran Chen, Duo Zhang, Qinli Yang, Junming Shao
+<!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.06 - now*, Ph.D. in Data Science, School of Data Science, University of Science and Technology of China (USTC), China, Supervisor: Xiangnan He.
+- *2016.09 - 2020.06*, Bachelor's degree in Computer Science and Technology, School of Computer Science and Engineering, University of Electronic Science and Technology of China (UESTC), Chengdu, China, Supervisor: Junming Shao.
 
-# 💬 Invited Talks
+
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<!-- # 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
