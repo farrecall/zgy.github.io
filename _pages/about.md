@@ -43,9 +43,9 @@ ACM SIGKDD International Conference on Knowledge Discovery &amp Data Mining, 202
 </div>
 </div>
 
-<div class="badge">TMM 2022</div> - [State graph reasoning for multimodal conversational recommendation](https://liziliao.github.io/papers/TMM_State.pdf),Yuxia Wu, Lizi Liao, **Gangyi Zhang**, Wenqiang Lei, Guoshuai Zhao, Xueming Qian, Tat-Seng Chua. IEEE Transactions on Multimedia, 2022. 
+<div class="publish-badge">TMM 2022</div> - [State graph reasoning for multimodal conversational recommendation](https://liziliao.github.io/papers/TMM_State.pdf),Yuxia Wu, Lizi Liao, **Gangyi Zhang**, Wenqiang Lei, Guoshuai Zhao, Xueming Qian, Tat-Seng Chua. IEEE Transactions on Multimedia, 2022. 
 
- <div class="badge">TCYB 2021</div> - Toward noise-resistant graph embedding with subspace clustering information, Zhongjing Yu, **Gangyi Zhang**, Jingyu Chen, Haoran Chen, Duo Zhang, Qinli Yang, Junming Shao. IEEE Transactions on Cybernetics, 2021.
+ <div class="publish-badge">TCYB 2021</div> - Toward noise-resistant graph embedding with subspace clustering information, Zhongjing Yu, **Gangyi Zhang**, Jingyu Chen, Haoran Chen, Duo Zhang, Qinli Yang, Junming Shao. IEEE Transactions on Cybernetics, 2021.
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
