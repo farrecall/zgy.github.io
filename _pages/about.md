@@ -19,7 +19,7 @@ redirect_from:
 
 I'm currently a first-year PhD student at the School of Data Science in the University of Science and Technology of China (USTC).
 
-I am a member of the [Lab for Data Science (LDS)](http://data-science.ustc.edu.cn/main.htm) under the guidance of [Xiangnan He](http://staff.ustc.edu.cn/~hexn/). My research focuses on conversational recommendation systems.
+I am a member of the [Lab for Data Science (LDS)](http://data-science.ustc.edu.cn/main.htm) under the guidance of [Xiangnan He](http://staff.ustc.edu.cn/~hexn/). My research interests center around developing and improving conversational recommendation systems.
 
 
 <!-- 
@@ -35,16 +35,17 @@ I am a member of the [Lab for Data Science (LDS)](http://data-science.ustc.edu.c
 [Interactive Path Reasoning on Graph for Conversational Recommendation](https://arxiv.org/pdf/2007.00194.pdf)
 
 Wenqiang Lei, **Gangyi Zhang**, Xiangnan He, Yisong Miao, Xiang Wang, Liang Chen, Tat-Seng Chua. 
-ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, 2020.
+
+ACM SIGKDD International Conference on Knowledge Discovery &amp Data Mining, 2020.
   
-[\[Project\]](https://cpr-conv-rec.github.io/)   \| [\[Code \& Data\]](https://github.com/farrecall/SCPR)  <strong><span class='show_paper_citations' data='ahI1Z7cAAAAJ:u5HHmVD_uO8C'>Citations: </span></strong>\ 
+[\[Project\]](https://cpr-conv-rec.github.io/)   \| [\[Code &amp Data\]](https://github.com/farrecall/SCPR)  <strong><span class='show_paper_citations' data='ahI1Z7cAAAAJ:u5HHmVD_uO8C'>Citations: </span></strong>\ 
 
 </div>
 </div>
 
-- [State graph reasoning for multimodal conversational recommendation](https://liziliao.github.io/papers/TMM_State.pdf),Yuxia Wu, Lizi Liao, **Gangyi Zhang**, Wenqiang Lei, Guoshuai Zhao, Xueming Qian, Tat-Seng Chua. IEEE Transactions on Multimedia, 2022. <div class="badge">TMM 2022</div> 
+<div class="badge">TMM 2022</div> - [State graph reasoning for multimodal conversational recommendation](https://liziliao.github.io/papers/TMM_State.pdf),Yuxia Wu, Lizi Liao, **Gangyi Zhang**, Wenqiang Lei, Guoshuai Zhao, Xueming Qian, Tat-Seng Chua. IEEE Transactions on Multimedia, 2022. 
 
-- Toward noise-resistant graph embedding with subspace clustering information, Zhongjing Yu, **Gangyi Zhang**, Jingyu Chen, Haoran Chen, Duo Zhang, Qinli Yang, Junming Shao. IEEE Transactions on Cybernetics, 2021. <div class="badge">TCYB 2021</div>
+ <div class="badge">TCYB 2021</div> - Toward noise-resistant graph embedding with subspace clustering information, Zhongjing Yu, **Gangyi Zhang**, Jingyu Chen, Haoran Chen, Duo Zhang, Qinli Yang, Junming Shao. IEEE Transactions on Cybernetics, 2021.
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
