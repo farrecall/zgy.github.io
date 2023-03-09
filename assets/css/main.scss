@@ -157,18 +157,16 @@ h1:before, .anchor:before {
   display: inline-block;
   vertical-align: middle;
   padding: 0.25em 0.5em;
-  margin-right: 0.5em;
+  margin-right: 0.25em;
   border-radius: 0.25em;
   font-size: 0.9em;
   font-weight: bold;
   color: white;
-  white-space: nowrap;
 }
 
 /* Conference badge styles */
 .conference-badge {
   background-color: #6c757d;
-  white-space: nowrap;
 }
 
 /* Track badge styles */
