@@ -36,8 +36,7 @@ I am a member of the [Lab for Data Science (LDS)](http://data-science.ustc.edu.c
 <br>
 <span class="author">Wenqiang Lei, **Gangyi Zhang**, Xiangnan He, Yisong Miao, Xiang Wang, Liang Chen, Tat-Seng Chua.</span>
 <br>
-<span class="conference"><span class="badge conference-badge">KDD 202O</span> *ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, 2020.*</span>
-<span class="badge track-badge">Full Paper</span>
+<span class="conference"><span class="badge conference-badge">KDD 202O</span> *ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, 2020.*<span class="badge track-badge">Full Paper</span></span>
 <br>
 <a href="https://cpr-conv-rec.github.io/" class="button">Project</a>
 <a href="https://github.com/farrecall/SCPR" class="button">Code & Data</a>
@@ -46,19 +45,18 @@ I am a member of the [Lab for Data Science (LDS)](http://data-science.ustc.edu.c
 </div>
 </div>
 
--  [State graph reasoning for multimodal conversational recommendation](https://liziliao.github.io/papers/TMM_State.pdf) 
+-  [State Graph Reasoning for Multimodal Conversational Recommendation](https://liziliao.github.io/papers/TMM_State.pdf) 
 <br>
 <span class="author">Yuxia Wu, Lizi Liao, **Gangyi Zhang**, Wenqiang Lei, Guoshuai Zhao, Xueming Qian, Tat-Seng Chua.</span>
 <br>
-<span class="conference"><span class="badge conference-badge">TMM 2022</span> *IEEE Transactions on Multimedia, 2022. *</span>
-<span class="badge track-badge">Full Paper</span>
+<span class="conference"><span class="badge conference-badge">TMM 2022</span> *IEEE Transactions on Multimedia, 2022.*<span class="badge track-badge">Full Paper</span></span>
 
--  Toward noise-resistant graph embedding with subspace clustering information, 
+-  Toward noise-resistant graph embedding with subspace clustering information 
 <br>
 <span class="author">Zhongjing Yu, **Gangyi Zhang**, Jingyu Chen, Haoran Chen, Duo Zhang, Qinli Yang, Junming Shao. </span>
 <br>
-<span class="conference"><span class="badge conference-badge">TCYB 2021</span> *IEEE Transactions on Cybernetics, 2021.*</span>
-<span class="badge track-badge">Full Paper</span>
+<span class="conference"><span class="badge conference-badge">TCYB 2021</span>*IEEE Transactions on Cybernetics, 2021.*</span>
+
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
