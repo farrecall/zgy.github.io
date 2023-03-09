@@ -32,7 +32,7 @@ I am a member of the [Lab for Data Science (LDS)](http://data-science.ustc.edu.c
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/2020_kdd_cpr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <!-- <div class="publish-badge">KDD 202O</div> -->
-[Interactive Path Reasoning on Graph for Conversational Recommendation](https://arxiv.org/pdf/2007.00194.pdf)
+<span class="title">[Interactive Path Reasoning on Graph for Conversational Recommendation](https://arxiv.org/pdf/2007.00194.pdf)</span>
 <br>
 <span class="author">Wenqiang Lei, **Gangyi Zhang**, Xiangnan He, Yisong Miao, Xiang Wang, Liang Chen, Tat-Seng Chua.</span>
 <br>
@@ -48,13 +48,13 @@ I am a member of the [Lab for Data Science (LDS)](http://data-science.ustc.edu.c
 </div>
 </div>
 
--  [State Graph Reasoning for Multimodal Conversational Recommendation](https://liziliao.github.io/papers/TMM_State.pdf) 
+-  <span class="title">[State Graph Reasoning for Multimodal Conversational Recommendation](https://liziliao.github.io/papers/TMM_State.pdf)</span>
 <br>
 <span class="author">Yuxia Wu, Lizi Liao, **Gangyi Zhang**, Wenqiang Lei, Guoshuai Zhao, Xueming Qian, Tat-Seng Chua.</span>
 <br>
 <span class="conference"><span class="badge conference-badge">TMM 2022</span><span class="badge track-badge">Full Paper</span> *IEEE Transactions on Multimedia, 2022.*</span>
 
--  Toward Noise-Resistant Graph Embedding With Subspace Clustering Information 
+-  <span class="title">Toward Noise-Resistant Graph Embedding With Subspace Clustering Information </span>
 <br>
 <span class="author">Zhongjing Yu, **Gangyi Zhang**, Jingyu Chen, Haoran Chen, Duo Zhang, Qinli Yang, Junming Shao. </span>
 <br>
