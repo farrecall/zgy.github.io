@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Gangyi Zhang (张刚毅) - Homepage"
+title                    : "Gangyi Zhang (张刚毅)"
 description              : "Ph.D. student in LDS lab"
 repository               : "farrecall/gangyi.github.io"
 google_scholar_stats_use_cdn : true
