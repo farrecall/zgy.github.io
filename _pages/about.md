@@ -41,7 +41,6 @@ I am a member of the [Lab for Data Science (LDS)](http://data-science.ustc.edu.c
 <div class="button-container">
   <button><a href="https://cpr-conv-rec.github.io/">Project</a></button>
   <button><a href="https://github.com/farrecall/SCPR">Code & Data</a></button>
-  <button>按钮3</button>
 </div>
   
 <!-- [\[Project\]](https://cpr-conv-rec.github.io/)   \| [\[Code & Data\]](https://github.com/farrecall/SCPR)  <strong><span class='show_paper_citations' data='ahI1Z7cAAAAJ:u5HHmVD_uO8C'></span></strong>\  -->
@@ -52,7 +51,7 @@ I am a member of the [Lab for Data Science (LDS)](http://data-science.ustc.edu.c
 <br>
 <span class="author">Yuxia Wu, Lizi Liao, **Gangyi Zhang**, Wenqiang Lei, Guoshuai Zhao, Xueming Qian, Tat-Seng Chua.</span>
 <br>
-<span class="conference"><span class="badge conference-badge">TMM 2022</span><span class="badge track-badge">Full Paper</span> *IEEE Transactions on Multimedia, 2022.*</span>
+<span class="conference"><span class="badge conference-badge">TMM 2022</span>*IEEE Transactions on Multimedia, 2022.*</span>
 
 -  <span class="title">Toward Noise-Resistant Graph Embedding With Subspace Clustering Information </span>
 <br>
