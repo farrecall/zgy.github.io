@@ -36,7 +36,7 @@ I am a member of the [Lab for Data Science (LDS)](http://data-science.ustc.edu.c
 <br>
 <span class="author">Wenqiang Lei, **Gangyi Zhang**, Xiangnan He, Yisong Miao, Xiang Wang, Liang Chen, Tat-Seng Chua.</span>
 <br>
-<span class="conference"><span class="badge conference-badge">KDD 202O</span> *ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, 2020.*, 2022</span>
+<span class="conference"><span class="badge conference-badge">KDD 202O</span> *ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, 2020.*</span>
 <span class="badge track-badge">Full PaperTrack</span>
 <br>
  
@@ -51,7 +51,7 @@ I am a member of the [Lab for Data Science (LDS)](http://data-science.ustc.edu.c
 <br>
 <span class="author">Yuxia Wu, Lizi Liao, **Gangyi Zhang**, Wenqiang Lei, Guoshuai Zhao, Xueming Qian, Tat-Seng Chua.</span>
 <br>
-<span class="conference"><span class="badge conference-badge">TMM 2022</span> *IEEE Transactions on Multimedia, 2022. *, 2022</span>
+<span class="conference"><span class="badge conference-badge">TMM 2022</span> *IEEE Transactions on Multimedia, 2022. *</span>
 
 - <div class="publish-badge">TCYB 2021</div> Toward noise-resistant graph embedding with subspace clustering information, Zhongjing Yu, **Gangyi Zhang**, Jingyu Chen, Haoran Chen, Duo Zhang, Qinli Yang, Junming Shao. IEEE Transactions on Cybernetics, 2021. 
 
