@@ -193,22 +193,29 @@ h1:before, .anchor:before {
   font-weight: bold;
 }
 
-/* Link button styles */
-.button {
-  display: inline-block;
-  padding: 0.5em 1em;
-  border-radius: 0.25em;
-  font-size: 0.9em;
-  font-weight: bold;
-  color: white;
-  text-decoration: none;
-  text-align: center;
-  background-color: #007bff;
-  transition: background-color 0.2s ease;
+.button-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  margin-top: 0.5em;
+  gap: 0.5em;
 }
 
-.button:hover {
-  background-color: #0069d9;
+.button-container button {
+  padding: 0.25em 0.5em;
+  font-size: 0.9em;
+  font-weight: bold;
+  border-radius: 0.25em;
+  border: 1px solid #6c757d;
+  color: #6c757d;
+  background-color: transparent;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
+
+.button-container button:hover {
+  background-color: #6c757d;
+  color: white;
 }
 // /* Markdown styles */
 // body {
