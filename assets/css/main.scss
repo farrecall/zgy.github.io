@@ -150,11 +150,12 @@ h1:before, .anchor:before {
   display: flex;
   align-items: center;
   margin-bottom: 0.5em;
+  flex-wrap: wrap;
 }
 
 /* Badge styles */
 .badge {
-  display: inline;
+  display: inline-flex;
   vertical-align: middle;
   padding: 0.2em 0.5em;
   margin-right: 0.25em;
