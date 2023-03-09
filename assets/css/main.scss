@@ -97,53 +97,6 @@ h1:before, .anchor:before {
     margin-top: -$scroll_offset;
 }
 
-// .badge {
-//     padding-left: 1rem;
-//     padding-right: 1rem;
-//     position: absolute;
-//     margin-top: .5em;
-//     margin-left: -.5em;
-//     color: white;
-//     background-color: #00369f;
-//     font-size: .8em;
-// }
-// .publish-badge {
-//   display: inline-block;
-//   float: left;
-//   padding: 0.25em 0.5em;
-//   margin-right: 0.5em;
-//   border-radius: 0.25em;
-//   font-size: 0.9em;
-//   font-weight: bold;
-//   color: white;
-//   background-color: #6c757d;
-// }
-// .paper {
-//   margin: 2em;
-//   padding: 2em;
-//   border: 1px solid #ccc;
-//   border-radius: 0.5em;
-// }
-
-// .title {
-//   font-size: 1.25em;
-//   margin-bottom: 0.5em;
-// }
-
-// .authors {
-//   font-size: 1em;
-//   color: #6c757d;
-//   margin-bottom: 0.5em;
-// }
-
-// .author {
-//   display: inline-block;
-//   margin-right: 0.5em;
-// }
-
-// .core {
-//   font-weight: bold;
-// }
 
 .conference {
   font-size: 1em;
@@ -189,7 +142,7 @@ h1:before, .anchor:before {
 
 /* Paper title styles */
 .paper-title {
-  font-size: 1.5em;
+  font-size: 1.25em;
   font-weight: bold;
 }
 
