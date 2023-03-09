@@ -38,8 +38,11 @@ I am a member of the [Lab for Data Science (LDS)](http://data-science.ustc.edu.c
 <br>
 <span class="conference"><span class="badge conference-badge">KDD 202O</span><span class="badge track-badge">Full Paper</span> *ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, 2020.*</span>
 <br>
-<a href="https://cpr-conv-rec.github.io/" class="button">Project</a>
-<a href="https://github.com/farrecall/SCPR" class="button">Code & Data</a>
+<div class="button-container">
+  <button><a href="https://cpr-conv-rec.github.io/">Project</a></button>
+  <button><a href="https://github.com/farrecall/SCPR">Code & Data</a></button>
+  <button>按钮3</button>
+</div>
   
 <!-- [\[Project\]](https://cpr-conv-rec.github.io/)   \| [\[Code & Data\]](https://github.com/farrecall/SCPR)  <strong><span class='show_paper_citations' data='ahI1Z7cAAAAJ:u5HHmVD_uO8C'></span></strong>\  -->
 </div>
