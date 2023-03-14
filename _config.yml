@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Gangyi Zhang"
   Chinese-name     : "张刚毅"
-  avatar           : "zgy.jpg"
+  avatar           : "images/zgy.jpg"
   bio              : # "Lorem ipsum College"
   location         : "Hefei, China"
   employer         :
